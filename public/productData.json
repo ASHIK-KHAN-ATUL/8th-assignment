@@ -1,0 +1,428 @@
+[
+    {
+        "product_id": 1,
+        "product_title": "iPhone 13",
+        "category": "Smartphones",
+        "price": 799.99,
+        "description": "The iPhone 13 features a stunning display and powerful performance.",
+        "Specification": [
+            "Display: 6.1-inch Super Retina XDR",
+            "Processor: A15 Bionic",
+            "Camera: Dual 12MP",
+            "Battery Life: Up to 19 hours"
+        ],
+        "availability": true,
+        "rating": 4.7,
+        "image": "https://i.ibb.co.com/6XskPzW/i-Phone-13.webp"
+    },
+    {
+        "product_id": 2,
+        "product_title": "iPhone 16 Pro",
+        "category": "Smartphones",
+        "price": 1099.99,
+        "description": "The latest iPhone with advanced camera features and performance.",
+        "Specification": [
+            "Display: 6.1-inch Super Retina XDR",
+            "Processor: A16 Bionic",
+            "Camera: Triple 12MP",
+            "Battery Life: Up to 23 hours"
+        ],
+        "availability": false,
+        "rating": 4.8,
+        "image": "https://i.ibb.co.com/5W9M6vM/i-Phone-16-Pro-Max.jpg"
+    },
+    {
+        "product_id": 3,
+        "product_title": "Samsung Galaxy A55",
+        "category": "Smartphones",
+        "price": 399.99,
+        "description": "A mid-range smartphone with great features and performance.",
+        "Specification": [
+            "Display: 6.4-inch AMOLED",
+            "Processor: Exynos 1280",
+            "Camera: Triple 64MP",
+            "Battery Life: Up to 24 hours"
+        ],
+        "availability": true,
+        "rating": 4.5,
+        "image": "https://i.ibb.co.com/Mh2N0mn/Samsung-Galaxy-A55.jpg"
+    },
+    {
+        "product_id": 4,
+        "product_title": "Galaxy S23 Ultra",
+        "category": "Smartphones",
+        "price": 1199.99,
+        "description": "Samsung's flagship with advanced camera technology.",
+        "Specification": [
+            "Display: 6.8-inch AMOLED",
+            "Processor: Snapdragon 8 Gen 2",
+            "Camera: Quad 200MP",
+            "Battery Life: Up to 30 hours"
+        ],
+        "availability": true,
+        "rating": 4.9,
+        "image": "https://i.ibb.co.com/LCrSYVX/Galaxy-S23-Ultra.jpg"
+    },
+    {
+        "product_id": 5,
+        "product_title": "Galaxy Z Flip5",
+        "category": "Smartphones",
+        "price": 999.99,
+        "description": "A unique foldable smartphone with innovative design.",
+        "Specification": [
+            "Display: 6.7-inch AMOLED",
+            "Processor: Snapdragon 8 Gen 2",
+            "Camera: Dual 12MP",
+            "Battery Life: Up to 20 hours"
+        ],
+        "availability": true,
+        "rating": 4.6,
+        "image": "https://i.ibb.co.com/2qh06K6/Galaxy-Z-Flip5.webp"
+    },
+    {
+        "product_id": 6,
+        "product_title": "Google Pixel 8",
+        "category": "Smartphones",
+        "price": 699.99,
+        "description": "Experience the best of Google with advanced camera features.",
+        "Specification": [
+            "Display: 6.2-inch AMOLED",
+            "Processor: Google Tensor G3",
+            "Camera: Dual 50MP",
+            "Battery Life: Up to 24 hours"
+        ],
+        "availability": true,
+        "rating": 4.7,
+        "image": "https://i.ibb.co.com/ZKY1N9C/Google-Pixel-8.jpg"
+    },
+    {
+        "product_id": 7,
+        "product_title": "OnePlus 11",
+        "category": "Smartphones",
+        "price": 899.99,
+        "description": "High performance with an ultra-smooth display.",
+        "Specification": [
+            "Display: 6.7-inch AMOLED",
+            "Processor: Snapdragon 8 Gen 2",
+            "Camera: Triple 50MP",
+            "Battery Life: Up to 24 hours"
+        ],
+        "availability": true,
+        "rating": 4.6,
+        "image": "https://i.ibb.co.com/41kMX4x/One-Plus-11.jpg"
+    },
+    {
+        "product_id": 8,
+        "product_title": "Xiaomi 13 Pro",
+        "category": "Smartphones",
+        "price": 999.99,
+        "description": "Powerful camera features and fast charging.",
+        "Specification": [
+            "Display: 6.73-inch AMOLED",
+            "Processor: Snapdragon 8 Gen 2",
+            "Camera: Triple 50MP",
+            "Battery Life: Up to 28 hours"
+        ],
+        "availability": true,
+        "rating": 4.6,
+        "image": "https://i.ibb.co.com/TW4RFtB/Xiaomi-13-Pro.jpg"
+    },
+    {
+        "product_id": 9,
+        "product_title": "Vivo X90 Pro",
+        "category": "Smartphones",
+        "price": 899.99,
+        "description": "Features an advanced camera system for photography lovers.",
+        "Specification": [
+            "Display: 6.78-inch AMOLED",
+            "Processor: MediaTek Dimensity 9200",
+            "Camera: Triple 50MP",
+            "Battery Life: Up to 25 hours"
+        ],
+        "availability": true,
+        "rating": 4.5,
+        "image": "https://i.ibb.co.com/WVhR1Sj/vivo-X90-Pro.jpg"
+    },
+    {
+        "product_id": 10,
+        "product_title": "Sony Xperia 1 IV",
+        "category": "Smartphones",
+        "price": 1299.99,
+        "description": "Perfect for multimedia enthusiasts and content creators.",
+        "Specification": [
+            "Display: 6.5-inch 4K HDR OLED",
+            "Processor: Snapdragon 8 Gen 1",
+            "Camera: Triple 12MP",
+            "Battery Life: Up to 30 hours"
+        ],
+        "availability": false,
+        "rating": 4.6,
+        "image": "https://i.ibb.co.com/w0nNH5X/Sony-Xperia-1-IV.jpg"
+    },
+    {
+        "product_id": 11,
+        "product_title": "Oppo Find X5 Pro",
+        "category": "Smartphones",
+        "price": 1099.99,
+        "description": "Flagship phone with exceptional camera and performance.",
+        "Specification": [
+            "Display: 6.7-inch AMOLED",
+            "Processor: Snapdragon 8 Gen 1",
+            "Camera: Triple 50MP",
+            "Battery Life: Up to 25 hours"
+        ],
+        "availability": true,
+        "rating": 4.6,
+        "image": "https://i.ibb.co.com/q1sFFD1/Oppo-Find-X5-Pro.webp"
+    },
+    {
+        "product_id": 12,
+        "product_title": "Realme GT 2 Pro",
+        "category": "Smartphones",
+        "price": 799.99,
+        "description": "High performance with an eco-friendly design.",
+        "Specification": [
+            "Display: 6.7-inch AMOLED",
+            "Processor: Snapdragon 8 Gen 1",
+            "Camera: Triple 50MP",
+            "Battery Life: Up to 24 hours"
+        ],
+        "availability": true,
+        "rating": 4.5,
+        "image": "https://i.ibb.co.com/wgtgpZs/realme-GT-2-Pro.jpg"
+    },
+    {
+        "product_id": 13,
+        "product_title": "Dell XPS 13 (2023)",
+        "category": "Laptops",
+        "price": 999.99,
+        "description": "A powerful and sleek laptop for professionals.",
+        "Specification": [
+            "Processor: Intel Core i7",
+            "RAM: 16GB",
+            "Storage: 512GB SSD",
+            "Display: 13.4-inch FHD"
+        ],
+        "availability": false,
+        "rating": 4.8,
+        "image": "https://i.ibb.co.com/qncRGvp/Dell-XPS-13-2023.webp"
+    },
+    {
+        "product_id": 14,
+        "product_title": "HP Spectre x360 (2023)",
+        "category": "Laptops",
+        "price": 1399.99,
+        "description": "Versatile and elegant, a perfect 2-in-1 laptop.",
+        "Specification": [
+            "Processor: Intel Core i7",
+            "RAM: 16GB",
+            "Storage: 1TB SSD",
+            "Display: 13.3-inch FHD"
+        ],
+        "availability": true,
+        "rating": 4.6,
+        "image": "https://i.ibb.co.com/LhGXwk3/HP-Spectre-x360-2023.webp"
+    },
+    {
+        "product_id": 15,
+        "product_title": "ASUS ZenBook",
+        "category": "Laptops",
+        "price": 1299.99,
+        "description": "A sleek and powerful laptop designed for professionals.",
+        "Specification": [
+            "Processor: Intel Core i7",
+            "RAM: 16GB",
+            "Storage: 512GB SSD",
+            "Display: 14-inch FHD"
+        ],
+        "availability": true,
+        "rating": 4.5,
+        "image": "https://i.ibb.co.com/YdZYz7m/ASUS-Zen-Book.webp"
+    },
+    {
+        "product_id": 16,
+        "product_title": "Lenovo ThinkPad X1 Carbon Gen 10",
+        "category": "Laptops",
+        "price": 1599.99,
+        "description": "A robust and lightweight business laptop.",
+        "Specification": [
+            "Processor: Intel Core i7",
+            "RAM: 16GB",
+            "Storage: 1TB SSD",
+            "Display: 14-inch 2K"
+        ],
+        "availability": true,
+        "rating": 4.8,
+        "image": "https://i.ibb.co.com/hHhcth7/Lenovo-Think-Pad-X1-Carbon-Gen-10.jpg"
+    },
+    {
+        "product_id": 17,
+        "product_title": "Acer Swift 5 (2023)",
+        "category": "Laptops",
+        "price": 1099.99,
+        "description": "A lightweight laptop with premium build quality.",
+        "Specification": [
+            "Processor: Intel Core i7",
+            "RAM: 16GB",
+            "Storage: 512GB SSD",
+            "Display: 14-inch FHD"
+        ],
+        "availability": false,
+        "rating": 4.5,
+        "image": "https://i.ibb.co.com/rZLpMfS/Acer-Swift-5-2023.webp"
+    },
+    {
+        "product_id": 18,
+        "product_title": "MSI Stealth 15 M",
+        "category": "Laptops",
+        "price": 1399.99,
+        "description": "Gaming laptop with powerful performance and sleek design.",
+        "Specification": [
+            "Processor: Intel Core i7",
+            "RAM: 16GB",
+            "Storage: 1TB SSD",
+            "Display: 15.6-inch FHD"
+        ],
+        "availability": true,
+        "rating": 4.7,
+        "image": "https://i.ibb.co.com/S0mjm6K/MSI-Stealth-15-M.webp"
+    },
+    {
+        "product_id": 19,
+        "product_title": "Samsung 25 W USB-C Fast Charger",
+        "category": "Chargers",
+        "price": 60.99,
+        "description": "Fast charger compatible with various devices.",
+        "Specification": [
+            "Output: 25W",
+            "Port: USB-C",
+            "Compatibility: Samsung and other brands"
+        ],
+        "availability": true,
+        "rating": 4.5,
+        "image": "https://i.ibb.co.com/7kfz3QY/Samsung-25-W-USB-C-Fast-Charger.webp"
+    },
+    {
+        "product_id": 20,
+        "product_title": "Apple 20 W USB-C Power Adapter",
+        "category": "Chargers",
+        "price": 55.99,
+        "description": "Apple's 20W USB-C Power Adapter.",
+        "Specification": [
+            "Output: 20W",
+            "Port: USB-C",
+            "Compatibility: Apple devices"
+        ],
+        "availability": true,
+        "rating": 4.6,
+        "image": "https://i.ibb.co.com/b25jjNV/Apple-20-W-USB-C-Power-Adapter.webp"
+    },
+    {
+        "product_id": 21,
+        "product_title": "Google 30 W USB-C Power Adapter",
+        "category": "Chargers",
+        "price": 52.99,
+        "description": "Fast charging adapter for Google devices.",
+        "Specification": [
+            "Output: 30W",
+            "Port: USB-C",
+            "Compatibility: Google devices"
+        ],
+        "availability": true,
+        "rating": 4.5,
+        "image": "https://i.ibb.co.com/f45XDtw/Google-30-W-USB-C-Power-Adapter.png"
+    },
+    {
+        "product_id": 22,
+        "product_title": "Samsung Galaxy Tab S8",
+        "category": "Tablets",
+        "price": 649.99,
+        "description": "Powerful tablet for entertainment and productivity.",
+        "Specification": [
+            "Display: 11-inch LCD",
+            "Processor: Snapdragon 8 Gen 1",
+            "RAM: 8GB",
+            "Storage: 128GB"
+        ],
+        "availability": true,
+        "rating": 4.6,
+        "image": "https://i.ibb.co.com/rd9LR3r/Samsung-Galaxy-Tab-S8.jpg"
+    },
+    {
+        "product_id": 23,
+        "product_title": "Apple iPad Air (5th Gen)",
+        "category": "Tablets",
+        "price": 599.99,
+        "description": "Lightweight tablet with powerful performance.",
+        "Specification": [
+            "Display: 10.9-inch Liquid Retina",
+            "Processor: M1",
+            "RAM: 8GB",
+            "Storage: 64GB"
+        ],
+        "availability": true,
+        "rating": 4.7,
+        "image": "https://i.ibb.co.com/qF9mHH8/Apple-i-Pad-Air-5th-Gen.jpg"
+    },
+    {
+        "product_id": 24,
+        "product_title": "Google Pixel Tablet",
+        "category": "Tablets",
+        "price": 499.99,
+        "description": "A versatile tablet for all your needs.",
+        "Specification": [
+            "Display: 10.95-inch LCD",
+            "Processor: Google Tensor",
+            "RAM: 8GB",
+            "Storage: 128GB"
+        ],
+        "availability": true,
+        "rating": 4.5,
+        "image": "https://i.ibb.co.com/tXf8r1y/Google-Pixel-Tablet.jpg"
+    },
+    {
+        "product_id": 25,
+        "product_title": "Apple Watch Series 8",
+        "category": "Smartwatches",
+        "price": 399.99,
+        "description": "Smartwatch with advanced health features.",
+        "Specification": [
+            "Display: 41mm",
+            "Connectivity: GPS, Cellular",
+            "Battery Life: Up to 18 hours"
+        ],
+        "availability": true,
+        "rating": 4.6,
+        "image": "https://i.ibb.co.com/z6CHXtG/Apple-Watch-Series-8.jpg"
+    },
+    {
+        "product_id": 26,
+        "product_title": "Samsung Galaxy Watch 5",
+        "category": "Smartwatches",
+        "price": 299.99,
+        "description": "Feature-rich smartwatch for fitness and health tracking.",
+        "Specification": [
+            "Display: 40mm",
+            "Connectivity: GPS, Bluetooth",
+            "Battery Life: Up to 40 hours"
+        ],
+        "availability": true,
+        "rating": 4.5,
+        "image": "https://i.ibb.co.com/Hx63BjN/Samsung-Galaxy-Watch-5.webp"
+    },
+    {
+        "product_id": 27,
+        "product_title": "Google Pixel Watch",
+        "category": "Smartwatches",
+        "price": 349.99,
+        "description": "Smartwatch with Google Assistant and Fitbit integration.",
+        "Specification": [
+            "Display: 41mm",
+            "Connectivity: GPS, Wi-Fi",
+            "Battery Life: Up to 24 hours"
+        ],
+        "availability": true,
+        "rating": 4.4,
+        "image": "https://i.ibb.co.com/T27NHN6/Google-Pixel-Watch.jpg"
+    }
+]
